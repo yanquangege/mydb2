@@ -39,7 +39,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	</style>
   </head>
   
-  <!-- 测试git3 -->
+  <!-- 测试git3 3-->
   <body>
     <div>
     	<img src="<c:url value='/${phone.image }'/>"/><br/>
