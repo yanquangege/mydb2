@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="phonestore"
+  id="myeclipse.1524661916339"
+  context-root="/phonestore"
+  j2ee-spec="5.0"
+  archive="phonestore.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
